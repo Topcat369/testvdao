@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+dogodoge.pet	TRUE	/	FALSE	1999999999	PHPSESSID	jpa15791vlkiranoigqvlht7v5
+.google.com	TRUE	/	FALSE	1999999999	CONSENT	PENDING+620
+
